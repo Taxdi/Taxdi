@@ -28,18 +28,19 @@
 <path d="M 0.5625 -2.78125 L 0.5625 -3.796875 L 5.421875 -5.828125 L 5.421875 -5.078125 L 1.234375 -3.296875 L 5.421875 -1.5 L 5.421875 -0.75 Z M 0.5625 -2.78125 "/>
 </g>
 </g>
-    <filter id="glow" color-interpolation-filters="sRGB">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"/>
+    <filter id="glow" color-interpolation-filters="sRGB" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.8" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.6" result="blur2"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <rect x="48" y="50" width="324" height="93" fill="#0d0d0d"/>
-  <g fill="#7c3aed" filter="url(#glow)" opacity="0">
+  <g fill="#cc44ff" filter="url(#glow)" opacity="0">
     <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"/>
-    <animate attributeName="fill" values="#7c3aed;#a78bfa;#7c3aed" dur="4s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="fill" values="#cc44ff;#ff88ff;#cc44ff" dur="3s" repeatCount="indefinite" begin="2s"/>
     <use xlink:href="#glyph-0-0" x="56.8" y="65.05"/>
 <use xlink:href="#glyph-0-0" x="62.8" y="65.05"/>
 <use xlink:href="#glyph-0-0" x="68.8" y="65.05"/>
