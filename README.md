@@ -70,10 +70,12 @@ I work at the intersection of **system programming and security** — understand
 
 <div align="center">
 
-| 🔐 [**taxdi-ctf** →](https://github.com/taxdi-ctf) | ⚙️ [**taxdi-projects** →](https://github.com/taxdi-projects) |
+| [<img src="assets/Taxdi-ctf.png" width="80"/>](https://github.com/taxdi-ctf) | [<img src="assets/taxdi-projects.png" width="80"/>](https://github.com/taxdi-projects) |
 |:---:|:---:|
+| 🔐 [**taxdi-ctf**](https://github.com/taxdi-ctf) | ⚙️ [**taxdi-projects**](https://github.com/taxdi-projects) |
 | CTF · exploitation · cryptography | algorithms · systems · security |
-| 🛰️ [**taxdi-academic** →](https://github.com/taxdi-academic) | 🔬 [**taxdi-research** →](https://github.com/taxdi-research) |
+| [<img src="assets/taxdi-academic.png" width="80"/>](https://github.com/taxdi-academic) | [<img src="assets/taxdi-research.png" width="80"/>](https://github.com/taxdi-research) |
+| 🛰️ [**taxdi-academic**](https://github.com/taxdi-academic) | 🔬 [**taxdi-research**](https://github.com/taxdi-research) |
 | networking · embedded · systems | research · publications · engineering |
 
 </div>
