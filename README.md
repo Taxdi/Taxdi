@@ -1,6 +1,4 @@
-# Hi there, I'm Taxdi 👋
-
-### 🛡️ About Me
+## 🛡️ About Me
 
 I am a **Cybersecurity and Software Engineering student** in an Engineering School. 
 
@@ -11,9 +9,9 @@ I work at the intersection of **system programming and security** — understand
 
 ---
 
-### 💻 Technical Stack
+## 💻 Technical Stack
 
-#### 🚀 Programming Languages
+### 🚀 Programming Languages
 ![Assembly](https://img.shields.io/badge/assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,13 +21,13 @@ I work at the intersection of **system programming and security** — understand
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### 🛡️ Security Tools
+### 🛡️ Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-black?style=for-the-badge&logo=ghidra&logoColor=white)
 
-#### 🐧 Systems & DevOps
+### 🐧 Systems & DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -39,10 +37,19 @@ I work at the intersection of **system programming and security** — understand
 
 ---
 
-### 🎯 Domains of Interest
+## Domains of Interest
 
-![Cryptography](https://img.shields.io/badge/CRYPTOGRAPHY-e61919?style=for-the-badge) ![Reverse Engineering](https://img.shields.io/badge/REVERSE%20ENGINEERING-ba3925?style=for-the-badge) ![Binary Exploitation](https://img.shields.io/badge/BINARY%20EXPLOITATION-8b2e1f?style=for-the-badge) ![Network Security](https://img.shields.io/badge/NETWORK%20SECURITY-e61919?style=for-the-badge) ![OS Internals](https://img.shields.io/badge/OS%20INTERNALS-ba3925?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-8b2e1f?style=for-the-badge) ![Formal Methods](https://img.shields.io/badge/FORMAL%20METHODS-e61919?style=for-the-badge) ![X86 Architecture](https://img.shields.io/badge/X86%20ARCHITECTURE-ba3925?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/CRYPTOGRAPHY-e61919?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REVERSE%20ENGINEERING-ba3925?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BINARY%20EXPLOITATION-8b2e1f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NETWORK%20SECURITY-e61919?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS%20INTERNALS-ba3925?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-8b2e1f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FORMAL%20METHODS-e61919?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/X86%20ARCHITECTURE-ba3925?style=for-the-badge" />
+</p>
 
 ---
 
@@ -53,13 +60,6 @@ I work at the intersection of **system programming and security** — understand
 | CTF · exploitation · cryptography | algorithms · systems · security |
 | 🛰️ [taxdi-academic →](https://github.com/votre-lien) | 🔬 [taxdi-research →](https://github.com/votre-lien) |
 | networking · embedded · systems | research · publications · engineering |
-
----
-
-### 📈 GitHub Activity 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Taxdi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
