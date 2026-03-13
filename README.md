@@ -1,4 +1,14 @@
-## 🛡️ About Me
+<div align="center">
+
+<img src="assets/logo.svg" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=7c3aed&center=true&vCenter=true&width=520&lines=Cryptography+%26+Protocol+Analysis;Binary+Exploitation+%26+Reverse+Engineering;Systems+Programming+%26+OS+Internals;Network+Security+%26+Embedded+Systems)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## About
 
 I am a **Cybersecurity and Software Engineering student** in an Engineering School. 
 
@@ -9,7 +19,7 @@ I work at the intersection of **system programming and security** — understand
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 ### 🚀 Programming Languages
 ![Assembly](https://img.shields.io/badge/assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
@@ -39,30 +49,55 @@ I work at the intersection of **system programming and security** — understand
 
 ## Domains of Interest
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CRYPTOGRAPHY-e61919?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REVERSE%20ENGINEERING-ba3925?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BINARY%20EXPLOITATION-8b2e1f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NETWORK%20SECURITY-e61919?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS%20INTERNALS-ba3925?style=for-the-badge" />
-  <br>
-  <img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-8b2e1f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FORMAL%20METHODS-e61919?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/X86%20ARCHITECTURE-ba3925?style=for-the-badge" />
-</p>
+<div align="center">
+
+![Cryptography](https://img.shields.io/badge/Cryptography-7c3aed?style=for-the-badge&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-5b21b6?style=for-the-badge&logoColor=white)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation-4c1d95?style=for-the-badge&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-7c3aed?style=for-the-badge&logoColor=white)
+![OS Internals](https://img.shields.io/badge/OS_Internals-5b21b6?style=for-the-badge&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-4c1d95?style=for-the-badge&logoColor=white)
+![Formal Methods](https://img.shields.io/badge/Formal_Methods-7c3aed?style=for-the-badge&logoColor=white)
+![x86 Architecture](https://img.shields.io/badge/x86_Architecture-5b21b6?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
-### 🏛️ Organizations
+## Organizations
 
-| 🔐 [taxdi-ctf →](https://github.com/votre-lien) | ⚙️ [taxdi-projects →](https://github.com/votre-lien) |
-| :--- | :--- |
+> Click on any organization to explore its repositories
+
+<div align="center">
+
+| 🔐 [**taxdi-ctf** →](https://github.com/taxdi-ctf) | ⚙️ [**taxdi-projects** →](https://github.com/taxdi-projects) |
+|:---:|:---:|
 | CTF · exploitation · cryptography | algorithms · systems · security |
-| 🛰️ [taxdi-academic →](https://github.com/votre-lien) | 🔬 [taxdi-research →](https://github.com/votre-lien) |
+| 🛰️ [**taxdi-academic** →](https://github.com/taxdi-academic) | 🔬 [**taxdi-research** →](https://github.com/taxdi-research) |
 | networking · embedded · systems | research · publications · engineering |
 
----
-
-![Snake animation](https://github.com/Taxdi/Taxdi/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
+
+<!-- STARS:START -->
+
+## Toolbox
+
+> Repos I follow and use in my workflow.
+
+| Repository | Description | Stars |
+|---|---|---|
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Shannon entropy analysis toolkit | ⭐ — |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 65,667 |
+| [reconurge/flowsint](https://github.com/reconurge/flowsint) | OSINT framework for network flow investigation | ⭐ — |
+
+<!-- STARS:END -->
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0d0d0d&height=100&section=footer" />
+
+</div>
