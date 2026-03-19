@@ -101,15 +101,11 @@ I work at the intersection of **system programming and security** — understand
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taxdi&title_color=ffffff&text_color=ffffff&icon_color=7d42cf&bg_color=0f111a&border_color=7d42cf&include_all_commits=true&count_private=false" alt="Stats Générales" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taxdi&title_color=ffffff&text_color=ffffff&icon_color=7d42cf&bg_color=0f111a&border_color=7d42cf&include_all_commits=true&count_private=true" alt="Stats Générales" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taxdi&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=7d42cf&bg_color=0f111a&border_color=7d42cf&include_all_commits=true&count_private=false" alt="Langages les plus utilisés" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Taxdi&mode=daily&theme=vue-dark&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0f111a&ring=7d42cf&fire=7d42cf&stroke=ffffff&ringNum=ffffff&currStreakFire=ffffff&ringNum=ffffff" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Taxdi&mode=daily&theme=vue-dark&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0f111a&ring=7d42cf&fire=7d42cf&stroke=ffffff&ringNum=ffffff&currStreakFire=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
