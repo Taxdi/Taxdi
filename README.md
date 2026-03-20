@@ -100,15 +100,13 @@ I work  the intersection of **system programming and security** — understandin
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taxdi&title_color=ffffff&text_color=ffffff&icon_color=7d42cf&bg_color=0f111a&border_color=7d42cf&include_all_commits=true&count_private=true" alt="Stats Générales" />
+</p>
 
-![Taxdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taxdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taxdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=ffffff&include_orgs=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Taxdi&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed)
-
-</div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Taxdi&mode=daily&theme=vue-dark&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0f111a&ring=7d42cf&fire=7d42cf&stroke=ffffff&ringNum=ffffff&currStreakFire=ffffff" alt="GitHub Streak" />
+</p>
 
 ---
 
