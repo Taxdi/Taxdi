@@ -70,7 +70,7 @@ I work  the intersection of **system programming and security** — understandin
 
 <div align="center">
 
-| [<img src="assets/Taxdi-ctf.png" width="80"/>](https://github.com/taxdi-ctf) | [<img src="assets/taxdi-projects.png" width="80"/>](https://github.com/taxdi-projects) |
+| [<img src="assets/taxdi-ctf.png" width="80"/>](https://github.com/taxdi-ctf) | [<img src="assets/taxdi-projects.png" width="80"/>](https://github.com/taxdi-projects) |
 |:---:|:---:|
 | 🔐 [**taxdi-ctf**](https://github.com/taxdi-ctf) | ⚙️ [**taxdi-projects**](https://github.com/taxdi-projects) |
 | CTF · exploitation · cryptography | algorithms · systems · security |
