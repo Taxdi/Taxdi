@@ -90,9 +90,9 @@ I work  the intersection of **system programming and security** — understandin
 
 | Repository | Description | Stars |
 |---|---|---|
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 99,981 |
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Shannon is an AI pentester for web applications and APIs.... | ⭐ 51,858 |
-| [reconurge/flowsint](https://github.com/reconurge/flowsint) | A modern platform for visual, flexible, and extensible gr... | ⭐ 10,179 |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | ⭐ 100,102 |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | Shannon is an AI pentester for web applications and APIs.... | ⭐ 51,903 |
+| [reconurge/flowsint](https://github.com/reconurge/flowsint) | A modern platform for visual, flexible, and extensible gr... | ⭐ 10,186 |
 
 <!-- STARS:END -->
 
